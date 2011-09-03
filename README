@@ -1,0 +1,16 @@
+Odtwarzanie poklatkowe
+http://lab.180hb.com/2011/08/odtwarzanie-poklatkowe/
+
+LAB^180 (http://lab.180hb.com)
+Szymon P. Peplinski (speplinski@180hb.com)
+Marek Brach (mbrach@180hb.com)
+
+Naszym zadaniem było stworzenie rozwiązania, bazującego na obrazie płynnym (wideo), 
+umożliwiającego modyfikację poszczególnych klatek filmu przez użytkowników. 
+Efekt zmiany miał być widoczny natychmiast, bez konieczności renderowania całej sekwencji od początku.
+
+Projekt zakładał, że film zbudowany jest z około trzydziestosekundowej, powtarzalnej (zapetlonej), sekwencji. 
+Dodatkowo wiedzieliśmy, że długość odtwarzanego materiału będzie się zmieniać w czasie, 
+gdyż zależy od ilości zmodyfikowanych klatek filmu. 
+Mieliśmy dać również możliwość wyświetlenia dowolnie wskazanego ujęcia (kardu). 
+Ostatnim założeniem była możliwa zmiana szybkości odtwarzanego materiału, podczas jego oglądania.
